@@ -8,7 +8,7 @@ Construindo minha base em desenvolvimento web por meio de projetos práticos e a
 
 🌍 **Portfólio Online:** https://gabrielorodrigues21.github.io  
 💻 **GitHub:** https://github.com/gabrielorodrigues21  
-📧 **E-mail:** gabriel.orodrigues21@gmail.com
+📧 **E-mail:** gabriel.o.rodrigues21@gmail.com
 
 </div>
 
